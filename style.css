@@ -2,3 +2,8 @@
     height: 100dvh;
 }
 
+@media (min-width:992px) {
+    .container {
+        max-width: 33%;
+    }
+}
